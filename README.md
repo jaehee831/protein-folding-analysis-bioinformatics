@@ -73,4 +73,5 @@ This project provides a comprehensive methodology for analyzing protein folding 
 
 ### Contribution
 Myunghyun Jeong - mhjonathan at gist.ac.kr
+
 Jaehee Lee - jhlee.ug@gm.gist.ac.kr

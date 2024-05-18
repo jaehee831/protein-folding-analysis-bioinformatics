@@ -72,6 +72,6 @@ If you use an AlphaFold DB prediction in your work, please cite the following pa
 This project provides a comprehensive methodology for analyzing protein folding dynamics through the calculation of dynamic temporal energy vectors and flux differentials. By identifying residues susceptible to structural changes, this analysis contributes to a deeper understanding of protein misfolding diseases and offers potential pathways for therapeutic development.
 
 ### Contribution
-Myunghyun Jeong - mhjonathan at gist.ac.kr
+Myunghyun Jeong - mhjonathan@gist.ac.kr
 
 Jaehee Lee - jhlee.ug@gm.gist.ac.kr

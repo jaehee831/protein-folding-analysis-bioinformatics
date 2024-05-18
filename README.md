@@ -1,10 +1,10 @@
-### Dynamic Temporal Energy Vectors for Protein Folding Analysis
+## 🧬Dynamic Temporal Energy Vectors for Protein Folding Analysis
 
 ### Overview
-This project focuses on the analysis of dynamic temporal energy vectors to identify residues in protein structures that are susceptible to structural changes. By examining both intra- and inter-residue non-covalent interactions, this research aims to pinpoint residues that experience intense non-covalent interactions, making them critical points for protein folding and misfolding.
+This project focuses on the **analysis of dynamic temporal energy vectors to identify residues in protein structures that are susceptible to structural changes**. By examining both intra- and inter-residue non-covalent interactions, this research aims to pinpoint residues that experience intense non-covalent interactions, making them critical points for protein folding and misfolding.
 
 ### Objective
-The primary objective of this project is to calculate energy vectors and flux differentials from non-covalent interactions in protein structures. This analysis is crucial for understanding how certain residues contribute to structural stability or instability, particularly in the context of protein misfolding diseases such as prion diseases.
+The primary objective of this project is to calculate energy vectors and flux differentials from non-covalent interactions in protein structures. This analysis is crucial for understanding how certain residues contribute to structural stability or instability, particularly **in the context of protein misfolding diseases such as prion diseases**.
 
 ### Significance
 Calculating flux differentials from energy vectors is essential as it highlights regions of the protein that are under significant stress due to non-covalent interactions. These stressed regions are often the sites where structural changes occur, leading to misfolding or aggregation. Identifying these critical residues can provide insights into the mechanisms of protein folding diseases and guide potential therapeutic interventions.
@@ -73,4 +73,4 @@ This project provides a comprehensive methodology for analyzing protein folding 
 
 ### Contribution
 Myunghyun Jeong - mhjonathan at gist.ac.kr
-For any questions or issues, please contact [Name] at [Email].
+Jaehee Lee - jhlee.ug@gm.gist.ac.kr

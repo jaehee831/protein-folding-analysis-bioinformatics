@@ -43,6 +43,7 @@ If you use an AlphaFold DB prediction in your work, please cite the following pa
 3. **`step 2_pymol stage pattern.py`**:
     - Prepares and aligns protein structures for analysis by loading PDB files, centering, and translating structures.
     - Ensures that structures are correctly positioned for accurate interaction calculations.
+    - Valid protein trajectories are subject to protein conformational and structural change. i.e. 6LNI sifdes are not susceptible for elongation. Hence, pymol stage was postulated as a static xy plane. 
 
 4. **`step 3.py`**:
     - Calculates energy vectors and flux differentials for residues based on interaction data.
@@ -70,5 +71,6 @@ If you use an AlphaFold DB prediction in your work, please cite the following pa
 ### Conclusion
 This project provides a comprehensive methodology for analyzing protein folding dynamics through the calculation of dynamic temporal energy vectors and flux differentials. By identifying residues susceptible to structural changes, this analysis contributes to a deeper understanding of protein misfolding diseases and offers potential pathways for therapeutic development.
 
-### Contact
+### Contribution
+Myunghyun Jeong - mhjonathan at gist.ac.kr
 For any questions or issues, please contact [Name] at [Email].

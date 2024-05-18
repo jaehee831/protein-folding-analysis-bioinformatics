@@ -43,7 +43,7 @@ If you use an AlphaFold DB prediction in your work, please cite the following pa
 3. **`step 2_pymol stage pattern.py`**:
     - Prepares and aligns protein structures for analysis by loading PDB files, centering, and translating structures.
     - Ensures that structures are correctly positioned for accurate interaction calculations.
-    - Valid protein trajectories are subject to protein conformational and structural change. i.e. 6LNI sifdes are not susceptible for elongation. Hence, pymol stage was postulated as a static xy plane. 
+    - Valid protein trajectories are subject to protein conformational and structural change. i.e. 6LNI sides are not susceptible for elongation of 1QLZ. Hence, pymol stage was postulated as a static xy plane. 
 
 4. **`step 3.py`**:
     - Calculates energy vectors and flux differentials for residues based on interaction data.
